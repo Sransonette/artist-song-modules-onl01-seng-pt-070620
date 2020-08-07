@@ -1,8 +1,9 @@
 
-
-
-
 require 'pry'
+
+
+extend
+
 
 class Artist
   attr_accessor :name
