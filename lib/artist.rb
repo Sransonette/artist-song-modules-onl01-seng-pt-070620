@@ -3,8 +3,6 @@ require 'pry'
 
 
 
-
-
 class Artist
   
   
