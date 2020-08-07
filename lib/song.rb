@@ -8,7 +8,7 @@ class Song
   
   extend Memorable
   extend Findable
-  include paramable
+  include Paramable
   
 
   attr_accessor :name
